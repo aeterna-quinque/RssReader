@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.exe.config
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.exe
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.pdb
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReader.Form1.resources
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.Properties.Resources.resources
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReader.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.exe
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.pdb
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.exe.manifest
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.application
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReader.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.exe.manifest
+C:\Users\user\Desktop\RssReader\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.application
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.exe.config
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.exe.manifest
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.application
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.exe
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\bin\Debug\RssReaderV2.pdb
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReader.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReader.Form1.resources
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.Properties.Resources.resources
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReader.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.exe.manifest
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.application
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.exe
+C:\Users\user\Desktop\Сазонов Сергей Александрович_C#_Спб\Задание 2. Rss фидер\RssReaderV2\RssReaderV2\obj\Debug\RssReaderV2.pdb
